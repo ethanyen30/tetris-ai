@@ -12,6 +12,7 @@ Initial Progress:
 
 Ethan continued by himself (and made new repo) from December 2024 - January 2025:
 
-First, to run everything, I already have the trained models in the checkpoint.pth files. Each was a checkpoint in the training process so checkpoint4 is the latest/best one. Install all the requirements. Run the current config in the test.py file
+First, to run everything, I already have the trained models in the checkpoint.pth files. Each was a checkpoint in the training process so checkpoint4 is the latest/best one. Install all the requirements. Run the current config in the test.py file:
+```python test.py```
 
 If you want explanation of the process, I'd be happy to explain.
